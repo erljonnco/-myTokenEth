@@ -46,7 +46,7 @@ If you encounter any issues or have questions, please feel free to [open an issu
 
 ## Authors
 
-- [erljonnco](https://github.com/yourusername](https://github.com/erljonnco)
+- [erljonnco](https://github.com/erljonnco)
 
 ## License
 
